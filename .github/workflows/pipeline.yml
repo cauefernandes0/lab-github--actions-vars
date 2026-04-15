@@ -1,6 +1,7 @@
 name: Desafio de Variaveis e Escopos
 on: 
    workflow_dispatch
+   push:
 
 env:
   APP_NAME: "MeuAppIncrível" # 1. Variavel de escopo global
