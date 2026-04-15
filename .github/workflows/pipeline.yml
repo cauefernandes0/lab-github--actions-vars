@@ -1,6 +1,6 @@
 name: Desafio de Variaveis e Escopos
 on: 
-   workflow_dispatch
+   workflow_dispatch:
    push:
 
 env:
